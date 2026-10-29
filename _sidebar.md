@@ -7,6 +7,7 @@
   - [Exemplo — Formação de equipe](blog/2027-03-10-formacao-de-equipe-exemplo.md)
   - [Diario 01](blog/2026-09-23-diario.md)
   - [Diario 02](blog/2026-10-07-diario.md)
+  - [Diario 03](blog/2026-10-28-diario.md)
 
 <!--
 Toda vez que você criar uma entrada nova em blog/ (5x no semestre, uma por
