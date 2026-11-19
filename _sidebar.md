@@ -8,6 +8,7 @@
   - [Diario 01](blog/2026-09-23-diario.md)
   - [Diario 02](blog/2026-10-07-diario.md)
   - [Diario 03](blog/2026-10-28-diario.md)
+  - [Diario 04](blog/2026-11-18-diario.md)
 
 <!--
 Toda vez que você criar uma entrada nova em blog/ (5x no semestre, uma por
